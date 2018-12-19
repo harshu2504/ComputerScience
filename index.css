@@ -1,0 +1,17 @@
+
+.img1{
+	width:100%;
+	margin:50px 0px 5px 0px;
+	padding:0px;
+}
+.img2{
+	width:100%;
+	margin:5px 0px 20px 0px;
+	padding:0px;
+}
+.img1:hover { 
+  border-bottom:5px solid #343a40;
+}
+.img2:hover { 
+  border-bottom:5px solid #343a40;
+}
