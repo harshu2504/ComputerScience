@@ -1,2 +1,2 @@
 # ComputerScience
-Responsive Website for computer science enthusiast
+Responsive Website for computer science enthusiast.
